@@ -9,7 +9,7 @@
 
 # Instructions:
 
-1) Open the web app in our browser. Normally it's at url http://localhost:3000/
+1) Open the web app in your browser. Normally it's at url http://localhost:3000/
 2) You will notice 3 grey apples
  ![image](https://user-images.githubusercontent.com/20699945/144598212-1f4b5a1d-1501-4357-8b01-8f68e321b94a.png)
 
